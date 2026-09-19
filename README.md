@@ -1,19 +1,19 @@
-# College Transport Tracker 🚌
+# College Transport Tracker 
 
 A simple Android application designed to help college students easily access and manage college transportation information.
 
 ## Features
 
-- 🚌 View available buses
-- 📍 View bus routes and stops
-- 🕐 View bus schedules
-- 👨‍✈️ View driver contact information
-- ➕ Add new buses
-- ➕ Add new routes
-- ➕ Add new schedules
-- 📱 Directly contact bus drivers through the phone dialer
-- 💾 Local data storage using SQLite
-- 🎨 Modern and user-friendly Android interface
+-  View available buses
+-  View bus routes and stops
+-  View bus schedules
+-  View driver contact information
+-  Add new buses
+-  Add new routes
+-  Add new schedules
+-  Directly contact bus drivers through the phone dialer
+-  Local data storage using SQLite
+-  Modern and user-friendly Android interface
 
 ## Technologies Used
 
