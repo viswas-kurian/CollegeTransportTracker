@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Palette -->
+    <color name="colorNavy">#0F172A</color>
+    <color name="colorNavyMid">#1E293B</color>
+    <color name="colorNavyCard">#243347</color>
+    <color name="colorHeroEnd">#1E3A5F</color>
+
+    <!-- Accent Palette -->
+    <color name="colorIndigo">#4F46E5</color>
+    <color name="colorIndigoLight">#818CF8</color>
+    <color name="colorIndigoDark">#3730A3</color>
+    <color name="colorIndigoPale">#EEF2FF</color>
+
+    <!-- Secondary Accents -->
+    <color name="colorAmber">#F59E0B</color>
+    <color name="colorAmberLight">#FEF3C7</color>
+    <color name="colorAmberDark">#92400E</color>
+    <color name="colorEmerald">#10B981</color>
+    <color name="colorEmeraldLight">#D1FAE5</color>
+    <color name="colorEmeraldDark">#065F46</color>
+    <color name="colorViolet">#7C3AED</color>
+    <color name="colorVioletLight">#EDE9FE</color>
+
+    <!-- Surface / Background -->
+    <color name="colorSurface">#F1F5F9</color>
+    <color name="colorSurfaceCard">#FFFFFF</color>
+    <color name="colorDivider">#E2E8F0</color>
+
+    <!-- Text -->
+    <color name="colorTextPrimary">#0F172A</color>
+    <color name="colorTextSecondary">#64748B</color>
+    <color name="colorTextLight">#CBD5E1</color>
+    <color name="colorTextOnDark">#F8FAFC</color>
+    <color name="colorTextOnDarkSub">#94A3B8</color>
+
+    <!-- Status Bar -->
+    <color name="colorStatusBar">#0F172A</color>
+</resources>

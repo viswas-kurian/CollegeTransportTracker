@@ -1,0 +1,74 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="32dp"
+    android:viewportWidth="64"
+    android:viewportHeight="32">
+
+    <!-- Bus body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M6,8 L52,8 Q58,8 60,14 L62,22 L4,22 L4,12 Q4,8 8,8 Z" />
+
+    <!-- Windshield -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M48,10 L56,10 Q59,10 60,13 L61,18 L48,18 Z" />
+
+    <!-- Windows -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M8,10 L20,10 L20,17 L8,17 Q6,17 6,15 L6,12 Q6,10 8,10 Z" />
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M22,10 L34,10 L34,17 L22,17 Z" />
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M36,10 L46,10 L46,17 L36,17 Z" />
+
+    <!-- Bus undercarriage / base -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M4,22 L62,22 L62,25 Q62,26 61,26 L5,26 Q4,26 4,25 Z" />
+
+    <!-- Front bumper -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M60,20 L63,20 Q64,20 64,21 L64,25 Q64,26 63,26 L60,26 Z" />
+
+    <!-- Rear bumper -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M1,20 L4,20 L4,26 L1,26 Q0,26 0,25 L0,21 Q0,20 1,20 Z" />
+
+    <!-- Headlight -->
+    <path
+        android:fillColor="#FDE68A"
+        android:pathData="M61,16 L63,16 L63,20 L61,20 Z" />
+
+    <!-- Taillight -->
+    <path
+        android:fillColor="#FCA5A5"
+        android:pathData="M1,16 L3,16 L3,20 L1,20 Z" />
+
+    <!-- Front wheel -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M50,25 A5,5 0 1,1 50,24.99 Z" />
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M50,27 A3,3 0 1,1 50,26.99 Z" />
+
+    <!-- Rear wheel -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M14,25 A5,5 0 1,1 14,24.99 Z" />
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M14,27 A3,3 0 1,1 14,26.99 Z" />
+
+    <!-- Accent stripe -->
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M4,19 L60,19 L60,21 L4,21 Z" />
+
+</vector>
